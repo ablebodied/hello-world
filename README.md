@@ -7,6 +7,8 @@ hello-world
     hello
     world
         
+# 该项目包含《剑指offer》中部分题目的代码
+
 nihao 
 
 My first project on GitHub
