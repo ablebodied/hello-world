@@ -46,7 +46,7 @@ I am back!***
 <td>A blue colored table background using numeric, RGB values "rgb(0, 0, 255)".</td>
 </tr></table>
 <table>
-  <tr bgcolor="#000000">
+  <tr bgcolor="#ff0000">
     <th>Month</th>
     <th>Savings</th>
   </tr>
