@@ -21,7 +21,8 @@ I am back!***
 **Learning how to use github.**
 
 [Google](https://www.google.com/ncr)
-![image](https://imgur.com/yWL9nvK)
+
+![image](https://i.imgur.com/yWL9nvK.png)
 
 * 国籍：中国
 * hello
